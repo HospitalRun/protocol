@@ -24,10 +24,15 @@ This repository is meant to capture the SOAP notes for various ICD-10 diagnostic
 For starters, we're focused on the core codes in English for 2016 ICD-10. The files are meant to be built following the [example file](2016_ICD-10-CM/2016_ICD-10-CM.example.md). 
 
 # Authoring Files
-There are two ways to go about authoring content for this repository.
+There are three ways to go about authoring content for this repository.
 
 1. Writing the files in pure on a text editor [markdown](https://daringfireball.net/projects/markdown/syntax). Markdown is a simple syntax for that can be translated by markdown processors into HTML. The idea is that it is declarative like HTML but less complex for those not interested in building files in HTML.
-2. Using an online markdown editor. We recommend using the following [editor from dillinger.io](http://dillinger.io/). There you can see the results of your markdown in real-time and then Export the file to a markdown file that will be downloaded to your local computer. The result of that file can be added to the repository, following the naming and directory convention above.
+2. [Authoring markdown files](https://guides.github.com/features/mastering-markdown/) directly in GitHub by 
+  * cloning the repository, 
+  * going to Code
+  * clicking on the 2016_ICD-10-CM directory, and 
+  * clicking the Create New File
+3. Using an online markdown editor. We recommend using the following [editor from dillinger.io](http://dillinger.io/). There you can see the results of your markdown in real-time and then Export the file to a markdown file that will be downloaded to your local computer. The result of that file can be added to the repository, following the naming and directory convention above.
 
 # Questions
 If you have questions regarding how to get involved in this project, including how your work can be referenced and credited as a clinician or medical student, email <mailto:protocol@hospitalrun.io>.
