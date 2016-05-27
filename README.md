@@ -6,18 +6,20 @@ This README assumes that you have a basic understanding of how to work with GitH
 
 # Getting started
 This repository is meant to capture the SOAP notes for various ICD-10 diagnostic codes. The structure of the repository is as follows:
+```
 +-- 2016_ICD-10-CM
-| +-- J45.20.md
-| +-- ANOTHER_CODE.md
-| +-- LANGUAGE_BUNDLE_DIRECTORY
-| | +-- J45.20.md
-| | +-- ANOTHER_CODE.md
+  +-- J45.20.md
+  +-- ANOTHER_CODE.md
+  +-- LANGUAGE_BUNDLE_DIRECTORY
+    +-- J45.20.md
+    +-- ANOTHER_CODE.md
 +-- ANOTHER_CODING_STANDARD
-| +-- CODE.md
-| +-- ANOTHER_CODE.md
-| +-- LANGUAGE_BUNDLE_DIRECTORY
-| | +-- CODE.md
-| | +-- ANOTHER_CODE.md
+  +-- CODE.md
+  +-- ANOTHER_CODE.md
+  +-- LANGUAGE_BUNDLE_DIRECTORY
+    +-- CODE.md
+    +-- ANOTHER_CODE.md
+```
 
 For starters, we're focused on the core codes in English for 2016 ICD-10. The files are meant to be built following the [example file](2016_ICD-10-CM/2016_ICD-10-CM.example.md). 
 
