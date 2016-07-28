@@ -27,11 +27,11 @@ For starters, we're focused on the core codes in English for 2016 ICD-10. The fi
 There are three ways to go about authoring content for this repository.
 
 1. Writing the files in pure on a text editor [markdown](https://daringfireball.net/projects/markdown/syntax). Markdown is a simple syntax for that can be translated by markdown processors into HTML. The idea is that it is declarative like HTML but less complex for those not interested in building files in HTML.
-2. [Authoring markdown files](https://guides.github.com/features/mastering-markdown/) directly in GitHub by 
-  * cloning the repository, 
-  * going to Code
-  * clicking on the 2016_ICD-10-CM directory, and 
-  * clicking the Create New File
+2. [Authoring markdown files](https://guides.github.com/features/mastering-markdown/) directly in GitHub by doing the following: 
+  * clone the repository, 
+  * click on the Code tab (in the top left corner of the screen)
+  * click on the 2016_ICD-10-CM directory (in the file listing of the Code screen), and 
+  * click "Create New File"
 3. Using an online markdown editor. We recommend using the following [editor from dillinger.io](http://dillinger.io/). There you can see the results of your markdown in real-time and then Export the file to a markdown file that will be downloaded to your local computer. The result of that file can be added to the repository, following the naming and directory convention above.
 
 # Questions
